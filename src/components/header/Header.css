@@ -1,9 +1,18 @@
 .header {
     width: 100%;
-    background: #46629d;
+    background: #24292e;
     position: fixed;
     top: 0;
     z-index: 99;
     height: 64px;
     display: flex;
+}
+
+.flex {
+    display: flex;
+    width: 50%;
+}
+
+.flex-end {
+    justify-content: flex-end;
 }
