@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/money-manager/static/css/main.84b95dce.chunk.css",
-    "main.js": "/money-manager/static/js/main.09635bd0.chunk.js",
-    "main.js.map": "/money-manager/static/js/main.09635bd0.chunk.js.map",
+    "main.js": "/money-manager/static/js/main.2b2a9bbc.chunk.js",
+    "main.js.map": "/money-manager/static/js/main.2b2a9bbc.chunk.js.map",
     "runtime-main.js": "/money-manager/static/js/runtime-main.a29d5fea.js",
     "runtime-main.js.map": "/money-manager/static/js/runtime-main.a29d5fea.js.map",
-    "static/js/2.edf2b198.chunk.js": "/money-manager/static/js/2.edf2b198.chunk.js",
-    "static/js/2.edf2b198.chunk.js.map": "/money-manager/static/js/2.edf2b198.chunk.js.map",
+    "static/js/2.f4c9721a.chunk.js": "/money-manager/static/js/2.f4c9721a.chunk.js",
+    "static/js/2.f4c9721a.chunk.js.map": "/money-manager/static/js/2.f4c9721a.chunk.js.map",
     "index.html": "/money-manager/index.html",
-    "precache-manifest.b53bfe626a9b134a5d6a5bfea76be5ab.js": "/money-manager/precache-manifest.b53bfe626a9b134a5d6a5bfea76be5ab.js",
+    "precache-manifest.bf5ac82a897ea7ed6b6ddea8429448c7.js": "/money-manager/precache-manifest.bf5ac82a897ea7ed6b6ddea8429448c7.js",
     "service-worker.js": "/money-manager/service-worker.js",
     "static/css/main.84b95dce.chunk.css.map": "/money-manager/static/css/main.84b95dce.chunk.css.map",
-    "static/js/2.edf2b198.chunk.js.LICENSE.txt": "/money-manager/static/js/2.edf2b198.chunk.js.LICENSE.txt"
+    "static/js/2.f4c9721a.chunk.js.LICENSE.txt": "/money-manager/static/js/2.f4c9721a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a29d5fea.js",
-    "static/js/2.edf2b198.chunk.js",
+    "static/js/2.f4c9721a.chunk.js",
     "static/css/main.84b95dce.chunk.css",
-    "static/js/main.09635bd0.chunk.js"
+    "static/js/main.2b2a9bbc.chunk.js"
   ]
 }
