@@ -1,0 +1,14 @@
+.box {
+    position: relative;
+    background: #fff;
+    border-radius: 4px;
+    margin: 10px auto;
+    padding: 16px;
+    height: 400px;
+    max-width: 900px;
+    margin-top: 84px;
+}
+
+.shadow {
+    box-shadow: 0 3px 24px 0 rgba(0,0,0,.12);
+}

@@ -1,0 +1,7 @@
+.MuiIconButton-colorSecondary {
+    color: #e9ebee!important;
+}
+
+.MuiIconButton-colorSecondary:hover {
+    background-color: rgba(243, 233, 236, 0.04) !important;
+}
