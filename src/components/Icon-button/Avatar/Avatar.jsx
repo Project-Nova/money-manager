@@ -9,11 +9,13 @@ const useStyles = makeStyles(theme => ({
         display: 'flex',
         '& > *': {
             margin: theme.spacing(1.5),
+            marginRight: "25px"
         },
     },
     square: {
         color: theme.palette.getContrastText(deepOrange[500]),
         backgroundColor: deepOrange[500],
+        marginRight: "25px"
     },
     rounded: {
         color: '#fff',
