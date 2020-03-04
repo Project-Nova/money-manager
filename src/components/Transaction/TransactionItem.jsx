@@ -41,7 +41,7 @@ export default function TransactionItem() {
 
     return (
         <List className={classes.root}>
-            <ListItem>
+            <ListItem className="list-item">
                 <ListItemAvatar>
                     <Avatar src="https://img.favpng.com/9/7/21/vector-graphics-clip-art-image-illustration-design-png-favpng-Zd7gD5LJ9ZNGLW9vjDXMGDEPH_t.jpg">
                     </Avatar>
@@ -51,7 +51,7 @@ export default function TransactionItem() {
                     <ListItemText primary="-₹ 2,300.00" />
                 </ListItemSecondaryAction>
             </ListItem>
-            <ListItem>
+            <ListItem className="list-item">
                 <ListItemAvatar>
                     <Avatar>
                         <WorkIcon />
@@ -59,7 +59,7 @@ export default function TransactionItem() {
                 </ListItemAvatar>
                 <ListItemText primary="Work" secondary="Jan 7, 2014" />
             </ListItem>
-            <ListItem>
+            <ListItem className="list-item">
                 <ListItemAvatar>
                     <Avatar>
                         <BeachAccessIcon />
