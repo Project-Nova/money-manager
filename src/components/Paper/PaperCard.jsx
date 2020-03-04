@@ -8,6 +8,12 @@ export default class PaperCard extends Component {
             <div className="box shadow">
                 <TransactionHeader />
                 <TransactionItem />
+                <TransactionHeader />
+                <TransactionItem />
+                <TransactionHeader />
+                <TransactionItem />
+                <TransactionHeader />
+                <TransactionItem />
             </div>
         )
     }
