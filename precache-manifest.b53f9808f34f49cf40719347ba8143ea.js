@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e34c73e86714481067d8bb988dedd01a",
+    "revision": "f961974384493ac37168bd613b5182ca",
     "url": "/money-manager/index.html"
   },
   {
