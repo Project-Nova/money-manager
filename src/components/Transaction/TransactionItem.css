@@ -1,0 +1,14 @@
+.MuiTypography-body1 {
+    max-width: 125px!important;
+    font-size: 14px!important;
+    line-height: 20px!important;
+    color: rgba(0,0,0,.87)!important;
+    font-weight: 500!important;
+}
+
+.months {
+    font-size: 10px!important;
+    display: block!important;
+    line-height: 14px!important;
+    color: rgba(0,0,0,.54)!important;
+}

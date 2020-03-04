@@ -17,6 +17,7 @@ const useStyles = makeStyles(theme => ({
     rounded: {
         color: '#fff',
         backgroundColor: green[500],
+        cursor: "pointer"
     },
 }));
 

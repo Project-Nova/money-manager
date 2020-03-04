@@ -19,7 +19,7 @@ export default function IconButtons() {
         <div className={classes.root}>
 
             <IconButton color="secondary" aria-label="add an alarm">
-                <Badge badgeContent={4} color="secondary">
+                <Badge badgeContent={4} color="primary">
                     <NotificationsNoneIcon />
                 </Badge>
             </IconButton>
