@@ -1,12 +1,13 @@
 .header {
     width: 100%;
-    background: white;
+    background: #162e58;
     position: fixed;
     top: 0;
     z-index: 99;
     height: 64px;
     display: flex;
     left: 0;
+    color: white;
     box-shadow: 0 1px 0 0 rgba(0,0,0,.12);
 }
 
@@ -17,4 +18,13 @@
 
 .flex-end {
     justify-content: flex-end;
+}
+
+.MuiButton-containedPrimary {
+    color: #fff;
+    background-color: #1aa333!important;
+}
+
+.transaction {
+    padding: 14px;
 }
