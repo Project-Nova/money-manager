@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/money-manager/static/css/main.4444e4ed.chunk.css",
-    "main.js": "/money-manager/static/js/main.7575b5d6.chunk.js",
-    "main.js.map": "/money-manager/static/js/main.7575b5d6.chunk.js.map",
+    "main.css": "/money-manager/static/css/main.8176573b.chunk.css",
+    "main.js": "/money-manager/static/js/main.2cd86e8e.chunk.js",
+    "main.js.map": "/money-manager/static/js/main.2cd86e8e.chunk.js.map",
     "runtime-main.js": "/money-manager/static/js/runtime-main.a29d5fea.js",
     "runtime-main.js.map": "/money-manager/static/js/runtime-main.a29d5fea.js.map",
-    "static/js/2.bb228689.chunk.js": "/money-manager/static/js/2.bb228689.chunk.js",
-    "static/js/2.bb228689.chunk.js.map": "/money-manager/static/js/2.bb228689.chunk.js.map",
+    "static/js/2.ace0a1bb.chunk.js": "/money-manager/static/js/2.ace0a1bb.chunk.js",
+    "static/js/2.ace0a1bb.chunk.js.map": "/money-manager/static/js/2.ace0a1bb.chunk.js.map",
     "index.html": "/money-manager/index.html",
-    "precache-manifest.c924c7da1574fd53dc82a254dd88660f.js": "/money-manager/precache-manifest.c924c7da1574fd53dc82a254dd88660f.js",
+    "precache-manifest.65775e773f9cebc92ad8f825500cc1fa.js": "/money-manager/precache-manifest.65775e773f9cebc92ad8f825500cc1fa.js",
     "service-worker.js": "/money-manager/service-worker.js",
-    "static/css/main.4444e4ed.chunk.css.map": "/money-manager/static/css/main.4444e4ed.chunk.css.map",
-    "static/js/2.bb228689.chunk.js.LICENSE.txt": "/money-manager/static/js/2.bb228689.chunk.js.LICENSE.txt"
+    "static/css/main.8176573b.chunk.css.map": "/money-manager/static/css/main.8176573b.chunk.css.map",
+    "static/js/2.ace0a1bb.chunk.js.LICENSE.txt": "/money-manager/static/js/2.ace0a1bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a29d5fea.js",
-    "static/js/2.bb228689.chunk.js",
-    "static/css/main.4444e4ed.chunk.css",
-    "static/js/main.7575b5d6.chunk.js"
+    "static/js/2.ace0a1bb.chunk.js",
+    "static/css/main.8176573b.chunk.css",
+    "static/js/main.2cd86e8e.chunk.js"
   ]
 }
