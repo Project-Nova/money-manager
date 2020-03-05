@@ -10,7 +10,7 @@ import BeachAccessIcon from '@material-ui/icons/BeachAccess';
 
 import ListItemSecondaryAction from '@material-ui/core/ListItemSecondaryAction';
 
-import Switch from '@material-ui/core/Switch';
+import './TransactionItem.css'
 
 import './TransactionItem.css'
 const useStyles = makeStyles(theme => ({
@@ -46,26 +46,10 @@ export default function TransactionItem() {
                     <Avatar src="https://img.favpng.com/9/7/21/vector-graphics-clip-art-image-illustration-design-png-favpng-Zd7gD5LJ9ZNGLW9vjDXMGDEPH_t.jpg">
                     </Avatar>
                 </ListItemAvatar>
-                <ListItemText primary="Photos" secondary="Jan 9, 2014" />
+                <ListItemText primary="Photos" secondary="Adjust Balance" />
                 <ListItemSecondaryAction>
                     <ListItemText primary="-₹ 2,300.00" />
                 </ListItemSecondaryAction>
-            </ListItem>
-            <ListItem className="list-item">
-                <ListItemAvatar>
-                    <Avatar>
-                        <WorkIcon />
-                    </Avatar>
-                </ListItemAvatar>
-                <ListItemText primary="Work" secondary="Jan 7, 2014" />
-            </ListItem>
-            <ListItem className="list-item">
-                <ListItemAvatar>
-                    <Avatar>
-                        <BeachAccessIcon />
-                    </Avatar>
-                </ListItemAvatar>
-                <ListItemText primary="Vacation" secondary="July 20, 2014" />
             </ListItem>
         </List>
     );

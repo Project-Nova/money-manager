@@ -10,10 +10,6 @@ const useStyles = makeStyles(theme => ({
             margin: theme.spacing(1.5),
         },
     },
-    square: {
-        color: theme.palette.getContrastText(deepOrange[500]),
-        backgroundColor: deepOrange[500],
-    },
     rounded: {
         color: '#fff',
         backgroundColor: green[500],
@@ -26,7 +22,11 @@ export default function LogoAvatar() {
 
     return (
         <div className={classes.root}>
-            <Avatar variant="rounded" src="https://image.flaticon.com/icons/png/512/1413/1413310.png" className={classes.square}></Avatar>
+            <Avatar variant="rounded" src="https://static.moneylover.me/img/icon/ic_category_all.png" className={classes.square}></Avatar>
+            <div>
+                <div>Total</div>
+                <div>12500</div>
+            </div>
         </div>
     );
 }
