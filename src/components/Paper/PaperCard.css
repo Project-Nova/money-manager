@@ -3,7 +3,6 @@
     background: #fff;
     border-radius: 4px;
     margin: 10px auto;
-    min-height: 400px;
     max-width: 700px;
     margin-top: 84px;
     margin-bottom: 84px;
@@ -11,4 +10,16 @@
 
 .shadow {
     box-shadow: 0 3px 24px 0 rgba(0,0,0,.12);
+}
+
+.NewButton {
+    width: 95%;
+    background: transparent;
+    position: fixed;
+    bottom: 84px;
+    z-index: 99;
+    height: 68px;
+    display: flex;
+    left: 0;
+    justify-content: flex-end;
 }

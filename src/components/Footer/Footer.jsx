@@ -1,9 +1,7 @@
 import React, { Component } from 'react'
 import './Footer.css'
-import IconButtons from '../Icon-button/Add/Add';
-import VariantAvatars from '../Icon-button/Avatar/Avatar';
-import LogoAvatar from '../Icon-button/LogoAvatar/LogoAvatar';
 import Botttom from './Bottom/Bottom';
+import IconButtons from '../Icon-button/Add/Add';
 
 export default class Footer extends Component {
     render() {

@@ -2,7 +2,6 @@ import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Avatar from '@material-ui/core/Avatar';
 import { deepOrange, green } from '@material-ui/core/colors';
-import AssignmentIcon from '@material-ui/icons/Assignment';
 
 const useStyles = makeStyles(theme => ({
     root: {
@@ -19,7 +18,7 @@ const useStyles = makeStyles(theme => ({
     },
     rounded: {
         color: '#fff',
-        backgroundColor: green[500],
+        backgroundColor: green[500]
     },
 }));
 
@@ -28,7 +27,7 @@ export default function VariantAvatars() {
 
     return (
         <div className={classes.root}>
-            <Avatar variant="square" src="https://avatars2.githubusercontent.com/u/31583525?s=460&v=4" className={classes.square}></Avatar>
+            <Avatar variant="rounded" src="https://avatars2.githubusercontent.com/u/31583525?s=460&v=4" className={classes.square}></Avatar>
         </div>
     );
 }

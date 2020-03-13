@@ -1,0 +1,21 @@
+.-transaction-title-box {
+    background-color: #d3171e;
+    height: 80px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.-transaction-titlebox-text {
+    font-size: 20px;
+    line-height: 1.3;
+    color: #ffffff;
+    padding: 21px 0 0 28px;
+    font-family: arial,sans-serif;
+}
+
+.-transaction-titlebox-sub-text {
+    font-size: 13px;
+    line-height: 1.3;
+    color: #ffffffd6;
+    padding: 5px 28px;
+    font-family: arial,sans-serif;
+}

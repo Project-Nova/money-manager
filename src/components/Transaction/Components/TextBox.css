@@ -1,0 +1,11 @@
+.MuiInputBase-input {
+    font-size: 19px!important;
+    font-weight: 351!important
+}
+.MuiFilledInput-input{
+    padding: 27px 12px 12px!important;
+    width: 100%!important;
+}
+.MuiFormControl-root {
+    width: 100%!important;
+}

@@ -1,0 +1,52 @@
+.flex {
+  display: flex;
+  width: 50%;
+}
+
+.flex-end {
+  justify-content: flex-end;
+}
+
+.label {
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: #333;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.inbound-text {
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: #039be5 !important;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+}
+.outbound-text {
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: red;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+}
+
+.report-master {
+  padding: 12px;
+}
+
+.total-report-summary {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18px;
+  font-family: Roboto, sans-serif;
+  text-align: left;
+  border-top: 1px solid gray;
+  padding-top: 13px;
+}
+
+.view-report-button {
+  text-align: center;
+  padding: 18px;
+}

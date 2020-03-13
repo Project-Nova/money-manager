@@ -1,4 +1,23 @@
 body {
-  background-color: #e9ebee;
   margin: 0;
+}
+.sidenav {
+  width: 400px;
+  height: 100vh;
+  border-right: 1px solid lightgray;
+}
+.banner {
+  width: 393px;
+  height: 216px;
+  padding: 8px 0 8px 8px;
+  background-image: url(https://lh5.googleusercontent.com/p/AF1QipOwcGt4uKuY1EnUM6OKEIrunrPjWRCiHjQehebr=w448-h240-k-no);
+}
+.username {
+  font-family: "Google Sans", Roboto, "Noto Sans Devanagari UI",
+    "Noto Sans Bengali UI", "Noto Sans Telugu UI", "Noto Sans Tamil UI",
+    "Noto Sans Gujarati UI", "Noto Sans Kannada UI", "Noto Sans Malayalam UI",
+    "Noto Sans Gurmukhi UI", Arial, sans-serif;
+  font-size: 1.375rem;
+  font-weight: 400;
+  line-height: 1.75rem;
 }

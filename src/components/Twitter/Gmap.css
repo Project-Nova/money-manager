@@ -1,0 +1,89 @@
+.omnibox {
+  display: flex;
+  width: 380px;
+  background: white;
+  border-radius: 8px;
+  border: 1px solid lightgray;
+  cursor: pointer;
+}
+
+input[type="text"] {
+  font-size: 18px;
+  border: none;
+  font-weight: 400;
+  font-family: Roboto, "Noto Sans Devanagari UI", "Noto Sans Bengali UI",
+    "Noto Sans Telugu UI", "Noto Sans Tamil UI", "Noto Sans Gujarati UI",
+    "Noto Sans Kannada UI", "Noto Sans Malayalam UI", "Noto Sans Gurmukhi UI",
+    Arial, sans-serif;
+  margin: 14px;
+}
+
+.menu-button {
+  cursor: pointer;
+}
+
+.serach-box {
+  border-right: 1px solid lightgray;
+}
+input:focus {
+  outline-offset: 0px;
+}
+
+:focus {
+  outline: white auto 1px;
+}
+
+.suggestions {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  font-size: 15px;
+  overflow: hidden;
+  width: 380px;
+  margin-top: 5px;
+  padding: 8px 0;
+}
+
+ul {
+  padding-left: 10px;
+}
+
+.suggest {
+  font-size: 13px;
+  line-height: 24px;
+  min-height: 24px;
+  padding: 5px;
+  padding-left: 26px;
+  cursor: pointer;
+  font-weight: 500;
+  font-family: Roboto, "Noto Sans Devanagari UI", "Noto Sans Bengali UI",
+    "Noto Sans Telugu UI", "Noto Sans Tamil UI", "Noto Sans Gujarati UI",
+    "Noto Sans Kannada UI", "Noto Sans Malayalam UI", "Noto Sans Gurmukhi UI",
+    Arial, sans-serif;
+}
+
+.flex-box {
+  display: flex;
+  padding: 0 8px;
+}
+
+.flex-box:hover {
+  background-color: rgba(0, 0, 0, 0.06);
+}
+
+.history {
+  padding: 5px;
+}
+
+.no-suggestions-text {
+  padding-left: 63px;
+  font-family: Roboto, "Noto Sans Devanagari UI", "Noto Sans Bengali UI",
+    "Noto Sans Telugu UI", "Noto Sans Tamil UI", "Noto Sans Gujarati UI",
+    "Noto Sans Kannada UI", "Noto Sans Malayalam UI", "Noto Sans Gurmukhi UI",
+    Arial, sans-serif;
+  color: gray;
+}
+
+.MuiSvgIcon-fontSizeSmall {
+  color: gray !important;
+}

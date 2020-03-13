@@ -1,0 +1,11 @@
+.MuiFormControl-marginNormal {
+  border: 2px solid #e0e0e0 !important;
+  margin: 0 !important;
+}
+#time-picker-label {
+  padding: 9px 0px 0 15px !important;
+}
+
+#Date-label {
+  padding: 8px 0px 0px 16px;
+}

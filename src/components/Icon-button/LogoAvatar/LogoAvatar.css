@@ -1,0 +1,19 @@
+.price {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+    font-family: Roboto,sans-serif;
+    padding-top: 5px;
+}
+
+.total {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    font-family: Roboto,sans-serif;
+    text-align: left;
+}
+
+.header-total-div{
+margin-left: 0px!important;
+}

@@ -1,30 +1,43 @@
 .header {
-    width: 100%;
-    background: #162e58;
-    position: fixed;
-    top: 0;
-    z-index: 99;
-    height: 64px;
-    display: flex;
-    left: 0;
-    color: white;
-    box-shadow: 0 1px 0 0 rgba(0,0,0,.12);
+  width: 100%;
+  background: #d3171e;
+  position: fixed;
+  top: 0;
+  z-index: 99;
+  height: 64px;
+  display: flex;
+  left: 0;
+  box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.12);
 }
 
 .flex {
-    display: flex;
-    width: 50%;
+  display: flex;
+  width: 50%;
 }
 
 .flex-end {
-    justify-content: flex-end;
+  justify-content: flex-end;
 }
 
 .MuiButton-containedPrimary {
-    color: #fff;
-    background-color: #1aa333!important;
+  color: #fff;
+  background-color: #1aa333 !important;
 }
 
 .transaction {
-    padding: 14px;
+  padding: 14px;
+}
+
+@media only screen and (max-width: 800px) {
+  .MuiButton-containedPrimary {
+    display: none !important;
+  }
+}
+@media only screen and (min-width: 800px) {
+  .MuiButton-containedPrimary {
+    display: block;
+  }
+  #Add-Button {
+    display: none !important;
+  }
 }
